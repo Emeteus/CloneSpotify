@@ -1,15 +1,23 @@
 {
-  "name": "clonespotify",
+  "name": "tailwindcss-spotify",
   "version": "1.0.0",
-  "description": "This project was created for the completion of a thesis, it is completely similar to the layout of the original site Spotify",
+  "description": "",
   "main": "tailwind.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorbabko/tailwindcss-spotify.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@tailwindcss/line-clamp": "^0.4.4"
+  "bugs": {
+    "url": "https://github.com/igorbabko/tailwindcss-spotify/issues"
+  },
+  "homepage": "https://github.com/igorbabko/tailwindcss-spotify#readme",
+  "dependencies": {
+    "@tailwindcss/line-clamp": "^0.2.2"
   }
 }
